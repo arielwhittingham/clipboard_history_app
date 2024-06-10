@@ -1,5 +1,21 @@
 ## Design
 
+### Set up
+
+
+- Manual:
+	1. Package app
+	2. Download all files and run make file?
+	
+- Automate:
+
+	3. Download all necessary packages
+	4. Add to bashrc/bash_profile
+	5. Add read/write/execute access to necessary folders, and create folders
+
+
+
+
 ### Invoking
 if [[MacOS]]
 	- Press command+c,command+x or right click copy
@@ -22,7 +38,7 @@ elif [[LinuxOSes]]
 
 ### Running
 
-- Bash script to run:
+Bash script to run:
 
 if [[MacOS]]]
 	- Might be same as linux, tbd
